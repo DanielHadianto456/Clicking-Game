@@ -16,7 +16,6 @@
     </div>
     <div class="happy" id="happy">
       <p>Thank you, I'm now happy</p>
-      <p>Thank you, I'm now happy</p>
     </div>
   </div>
 </template>
